@@ -1,1 +1,0 @@
-﻿this is the first version of linux_list
